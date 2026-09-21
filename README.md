@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions strictly based on the ["Agentic AI: An Executive's Guide"](https://konverge.ai/pdf/Ebook-Agentic-AI.pdf) eBook by Konverge AI. Built with LangGraph, Pinecone, and free local embeddings.
 - Live Demo:https://rag-agentic-ai-chatbot-apqejbheg9q4xjjttgyjn7.streamlit.app/
-
+- Demo video:https://github.com/user-attachments/assets/21fc5e52-42b8-4a66-81df-3227eab52d89
 ## Features
 
 - Ingests and chunks the source PDF automatically
@@ -116,6 +116,5 @@ GROQ_API_KEY=your_groq_key
 ## Note on Development
 
 This project avoids no-code/low-code AI platforms; the RAG pipeline, retrieval logic, and grounding strategy were implemented directly in Python using the specified frameworks (LangGraph, Pinecone).
-- **Demo video**
-https://github.com/user-attachments/assets/21fc5e52-42b8-4a66-81df-3227eab52d89
+
 
