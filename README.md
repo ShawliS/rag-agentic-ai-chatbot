@@ -115,6 +115,8 @@ GROQ_API_KEY=your_groq_key
 
 ## Note on Development
 
-This project avoids no-code/low-code AI platforms; the RAG pipeline, retrieval logic, and grounding strategy were implemented directly in Python using the specified frameworks (LangGraph, Pinecone).
+The RAG pipeline, retrieval logic, and grounding strategy were implemented directly in Python using the specified frameworks, including LangGraph and Pinecone.
+
+This project focuses on understanding and implementing the core RAG workflow rather than relying on no-code or low-code AI platforms.
 
 
