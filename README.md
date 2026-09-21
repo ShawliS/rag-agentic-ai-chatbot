@@ -1,6 +1,7 @@
 # Agentic AI eBook RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions strictly based on the ["Agentic AI: An Executive's Guide"](https://konverge.ai/pdf/Ebook-Agentic-AI.pdf) eBook by Konverge AI. Built with LangGraph, Pinecone, and free local embeddings.
+**Live Demo:** https://rag-agentic-ai-chatbot-apqejbheg9q4xjjttgyjn7.streamlit.app/
 
 ## Features
 
